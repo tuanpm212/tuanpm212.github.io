@@ -1,0 +1,30 @@
+{
+  "name": "shopping",
+  "authors": [
+    "Tuấn Phạm <tuanpm212@gmail.com>"
+  ],
+  "description": "desciption",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "1.5.5",
+    "animate.css": "3.5.1",
+    "bootstrap": "3.3.6",
+    "flag-icon-css": "2.3.1",
+    "font-awesome": "4.6.3",
+    "jquery": "1.12.3",
+    "jquery-ui": "1.11.4",
+    "meanMenu": "https://github.com/meanthemes/meanMenu.git",
+    "modernizr": "2.8.3",
+    "owl.carousel": "^2.1.3",
+    "respond": "1.4.2"
+  }
+}
